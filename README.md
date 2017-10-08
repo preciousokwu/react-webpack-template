@@ -1,4 +1,4 @@
-# react_webpack_config
+# react_webpack_template
 
 This project help you eliminate the stress involved in creating a new react app using webpack it already has the dependencies needed for setting up a new react app all you just have to do is to install the dependencies 
 It contains the 
