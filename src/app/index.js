@@ -1,0 +1,1 @@
+document.getElementById("body").innerHTML="<h1>Welcome to your first React App</h1>";

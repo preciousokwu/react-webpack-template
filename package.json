@@ -1,13 +1,12 @@
 {
-
   "name": "learnreact",
   "version": "1.0.0",
   "description": "simple react application",
   "main": "index.js",
   "scripts": {
     "start": "npm run build",
-    "build":"webpack -d && cp src/index.html dist/index.html && webpack-dev-server --content-base src/ --inline --hot",
-    "build:prod":"webpack -p  &&  cp src/index.html dist/index.html"
+    "build": "webpack -d && cp src/index.html dist/index.html && webpack-dev-server --content-base src/ --inline --hot",
+    "build:prod": "webpack -p  &&  cp src/index.html dist/index.html"
   },
   "keywords": [
     "react"
