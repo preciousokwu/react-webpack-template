@@ -1,5 +1,10 @@
 # react_webpack_template
 
+3 simple steps 
+1. Clone or download the  react_webpack_template repo
+2. run "npm install"
+3. run "npm start"
+
 This project help you eliminate the stress involved in creating a new react app using webpack it already has the dependencies needed for setting up a new react app all you just have to do is to install the dependencies 
 It contains the 
 
